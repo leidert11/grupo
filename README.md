@@ -5,3 +5,4 @@
 - para eliminar una rama te debe de poner en dichaa rama y con el siguiente comando se elimina   git branch -d leider
 
 - para cambiar nombre una rama te debe de poner en dichaa rama y con el siguiente comando se cambiara   git branch -m leider
+
