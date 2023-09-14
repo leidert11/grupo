@@ -4,9 +4,34 @@
 
 - el git merge es fusionar cambios por ejemplo estar en una rama secundaria hacer un cambio , subirlo , despues estar en la rama principal y hacer un merge con la rama que hizo los cambios
 
+El comando `merge` de Git se utiliza para combinar dos o más ramas en tu repositorio. Este comando toma el contenido de una rama secundaria y lo integra con la rama actual.
+
+### Código
+
+Aquí tienes los pasos para hacer un merge:
+
+1. Primero, debes asegurarte de estar en la rama donde quieres fusionar la rama secundaria. Puedes usar el comando `git checkout` para cambiar a la rama deseada. Por ejemplo, si quieres fusionar en la rama `main`, debes hacer:
+
+
+`git checkout main`
+Luego, puedes usar el comando git merge para fusionar la rama secundaria en tu rama actual (en este caso, main). Por ejemplo, si quieres fusionar una rama llamada feature, puedes hacer:
+`git merge feature`
+
+Esto fusionará la rama feature en la rama main.
+
+Ejemplo
+Supongamos que tienes dos ramas: main y feature. Has hecho algunos cambios en la rama feature que ahora quieres fusionar en la rama main. Aquí están los comandos que usarías:
+
+
+`git checkout main`
+`git merge feature`
+
+
+# datos extras
+
 - para eliminar una rama te debe de poner en dichaa rama y con el siguiente comando se elimina   git branch -d leider
 
-- para cambiar nombre una rama te debe de poner en dicha rama y con el siguiente comando se cambiara   git branch -m leider
+- para cambiar nombre una rama te debe de poner en dichaa rama y con el siguiente comando se cambiara   git branch -m leider
 
 ## Cherry-Pick con Git
 
