@@ -33,3 +33,10 @@ Un "release" es una versión estable de tu proyecto lista para ser usada por los
 4. Describe los cambios realizados en esta versión en "Describe this release".
 5. Haz clic en "Publish release".
 
+[video de explicacion](https://www.youtube.com/watch?v=wwHtJWS1haA)
+
+## pull request en GitHub
+
+Un “Pull Request” en GitHub es una solicitud para que los cambios que has hecho en una rama de tu repositorio sean incorporados (o “fusionados”) en otra rama, generalmente la rama principal o “main”. Aquí te dejo una explicación breve y precisa de cómo hacer un Pull Request
+
+[video de explicacion](https://www.youtube.com/watch?v=Tfxo6P0wZ1s)
