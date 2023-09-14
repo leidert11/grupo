@@ -22,3 +22,13 @@ Cherry-pick permite aplicar cambios de un commit específico a tu rama actual. A
 es darle un alias a un commit bien puedes darle uun tag al ultimo commit o referirte a uno antiguo con el hash 
 
 - Aplica el commit con `git tag V1.0.0 345a330d67303eca4746d46c8c93689e8a2cf6a1`.
+
+## Creación de un Release en GitHub
+
+Un "release" es una versión estable de tu proyecto lista para ser usada por los usuarios. Aquí están los pasos para crear un release:
+
+1. Navega a tu repositorio en GitHub y haz clic en la pestaña "Releases".
+2. Haz clic en "Draft a new release".
+3. Introduce el número de la versión en "Tag version" y un título para tu release en "Release title".
+4. Describe los cambios realizados en esta versión en "Describe this release".
+5. Haz clic en "Publish release".
