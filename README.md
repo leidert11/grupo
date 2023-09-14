@@ -23,6 +23,9 @@ es darle un alias a un commit bien puedes darle uun tag al ultimo commit o refer
 
 - Aplica el commit con `git tag V1.0.0 345a330d67303eca4746d46c8c93689e8a2cf6a1`.
 
+[video de explicacion](https://www.youtube.com/watch?v=5DkX3HFgklM&t=186s)
+
+
 ## Creación de un Release en GitHub
 
 Un "release" es una versión estable de tu proyecto lista para ser usada por los usuarios. Aquí están los pasos para crear un release:
