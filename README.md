@@ -16,3 +16,9 @@ Cherry-pick permite aplicar cambios de un commit específico a tu rama actual. A
 2. En la terminal, asegúrate de estar en la rama donde deseas aplicar el commit con `git branch`.
 3. Aplica el commit con `git cherry-pick HASH_DEL_COMMIT`.
 4. Si hay conflictos, resuélvelos y luego ejecuta `git cherry-pick --continue`.
+
+## tags en git
+
+es darle un alias a un commit bien puedes darle uun tag al ultimo commit o referirte a uno antiguo con el hash 
+
+- Aplica el commit con `git tag V1.0.0 345a330d67303eca4746d46c8c93689e8a2cf6a1`.
